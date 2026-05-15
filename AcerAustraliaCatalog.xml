@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModelList>
+    <Model name="TravelMate X414-51">
+        <BIOS version="1.11">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.11_A_A.zip?acerid=639014708704561026</BIOS>
+        <SCCM os="win11" version="25H2">https://global-download.acer.com/supportfiles/files/support/sccm/ZPT_25H2_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate X414T-51">
+        <BIOS version="1.11">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.11_A_A.zip?acerid=639014708704561026</BIOS>
+        <SCCM os="win11" version="25H2">https://global-download.acer.com/supportfiles/files/support/sccm/ZPT_25H2_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate X414-51-TCO">
+        <BIOS version="1.11">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.11_A_A.zip?acerid=639014708704561026</BIOS>
+        <SCCM os="win11" version="25H2">https://global-download.acer.com/supportfiles/files/support/sccm/ZPT_25H2_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate X414T-51-TCO">
+        <BIOS version="1.11">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.11_A_A.zip?acerid=639014708704561026</BIOS>
+        <SCCM os="win11" version="25H2">https://global-download.acer.com/supportfiles/files/support/sccm/ZPT_25H2_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-43">
+        <BIOS version="1.19">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.19_A_A.zip?acerid=638868439616444440</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8M_Z8MA_Win11_24H2.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-43-TCO">
+        <BIOS version="1.19">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.19_A_A.zip?acerid=638868439616444440</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8M_Z8MA_Win11_24H2.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-73">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638751147769561478</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-73_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-73-TCO">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638751147769561478</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-73_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-73T">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638751147769561478</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-73_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-73T-TCO">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638751147769561478</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-73_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate Spin P414RN-54">
+        <BIOS version="1.08">https://global-download.acer.com/gdfiles/bios/bios/638777992069709701_BIOS_Acer_1.08_A_A.zip</BIOS>
+        <SCCM os="win11" version="23H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8Z_Z8ZA_Windows11_All.cab</SCCM>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414RN-54_TMP416-53_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate Spin P414RN-54-TCO">
+        <BIOS version="1.08">https://global-download.acer.com/gdfiles/bios/bios/638777992069709701_BIOS_Acer_1.08_A_A.zip</BIOS>
+        <SCCM os="win11" version="23H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8Z_Z8ZA_Windows11_All.cab</SCCM>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414RN-54_TMP416-53_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P416-53">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638777999861871850</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414RN-54_TMP416-53_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P416-53-TCO">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638777999861871850</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414RN-54_TMP416-53_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-42">
+        <BIOS version="1.04">https://global-download.acer.com/gdfiles/bios/bios/638499594884651947_bios_acer_1.04_a_a.zip</BIOS>
+        <SCCM os="win11" version="22H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8RC_231017_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-42-TCO">
+        <BIOS version="1.04">https://global-download.acer.com/gdfiles/bios/bios/638499594884651947_bios_acer_1.04_a_a.zip</BIOS>
+        <SCCM os="win11" version="22H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8RC_231017_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-53-T">
+        <BIOS version="1.13">https://global-download.acer.com/gdfiles/bios/bios/638454728469594629_bios_acer_1.13_a_a.zip</BIOS>
+        <SCCM os="win11" version="22H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP614-53_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-54">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638777992069709701</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414RN-54_TMP416-53_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-54-TCO">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638777992069709701</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414RN-54_TMP416-53_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-54">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638854029532982855</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Viola_LNV_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-54-TCO">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638854029532982855</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Viola_LNV_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-54T">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638854029532982855</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Viola_LNV_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P614-54T-TCO">
+        <BIOS version="1.08">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.08_A_A.zip?acerid=638854029532982855</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Viola_LNV_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P416-74-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-74">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-74T-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-74T">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-54-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-54">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-54T-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P416-54T">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP416-54_TMP416-74_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P414-55">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-55_TMP414RN-55_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P414-55-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-55_TMP414RN-55_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P414-55T">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-55_TMP414RN-55_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P414-55T-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-55_TMP414RN-55_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-55">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-55_TMP414RN-55_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-55-TCO">
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-55_TMP414RN-55_series_Win11_24H2.zip</SCCM>
+    </Model>
+    <Model name="TravelMate P215-55">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-55_Win11_All_241008.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P215-55T">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-55_Win11_All_241008.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P215-55-TCO">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-55_Win11_All_241008.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P215-55T-TCO">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP215-55_Win11_All_241008.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P216-51-G2">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P216-51-G2-TCO">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P216-51T-G2">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P216-51T-G2-TCO">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-56">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-56_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-56-TCO">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-56_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-56T">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-56_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-56T-TCO">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-56_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate X14-51">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-56_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate X14-51T">
+        <BIOS version="1.09">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.09_A_A.zip?acerid=638756188799466739</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP214-56_Windows11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-55-G2">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-55-G2-TCO">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-55T-G2">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P214-55T-G2-TCO">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638756187507419476</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/Z8UAB_240205_Win11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414-52">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638668924007032625</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_Win11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-52">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638668924007032625</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_Win11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate X40-54">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638668924007032625</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-52_TMP414RN-52_Win11_24H2_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414-53-G2">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638791729636587336</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53-G2_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414-53-G2-TCO">
+        <BIOS version="1.14">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.14_A_A.zip?acerid=638791729636587336</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53-G2_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414-53">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_UMA_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414-53-TCO">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_UMA_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414P-53">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_UMA_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414P-53-TCO">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_UMA_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-53">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_UMA_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-53-TCO">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_UMA_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414-53G">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_DIS_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414P-53G">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_DIS_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-53G">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_DIS_Windows11_All.cab</SCCM>
+    </Model>
+    <Model name="TravelMate P414RN-53G-TCO">
+        <BIOS version="1.27">https://global-download.acer.com/GDFiles/BIOS/BIOS/BIOS_Acer_1.27_A_A.zip?acerid=638780525543960499</BIOS>
+        <SCCM os="win11" version="24H2">https://global-download.acer.com/supportfiles/files/support/sccm/TMP414-53_DIS_Windows11_All.cab</SCCM>
+    </Model>
+</ModelList>
