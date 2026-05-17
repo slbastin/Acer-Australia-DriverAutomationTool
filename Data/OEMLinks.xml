@@ -28,7 +28,7 @@
 		<Link Type="SurfaceDriverSupportURL" URL="https://support.microsoft.com/tr-tr/surface/download-drivers-and-firmware-for-surface-09bb2e09-2a4b-cb69-0951-078a7739e120"></Link>
 	</Manufacturer>
 	<Manufacturer Name="Acer" >
-		<Link Type="XMLSource" URL="https://global-download.acer.com/supportfiles/files/support/sourcefile/msepm/AcerCatalog.xml"></Link>
+		<Link Type="XMLSource" URL="https://github.com/slbastin/Acer_Australia_DriverAutomationTool/blob/master/AcerAustraliaCatalog.xml"></Link>
 	</Manufacturer>
 		<Manufacturer Name="Acer Australia" >
 		<Link Type="XMLSource" URL="https://github.com/slbastin/Acer_Australia_DriverAutomationTool/blob/master/AcerAustraliaCatalog.xml"></Link>
