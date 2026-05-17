@@ -30,8 +30,9 @@ if ($PSVersionTable.PSVersion.Major -le 5) {
 [version]$global:ScriptRelease = "10.0.27.0"
 $global:ScriptBuildDate = "01-05-2026"
 $global:ReleaseNotesURL = "https://raw.githubusercontent.com/maurice-daly/DriverAutomationTool/master/Data/DriverAutomationToolNotes.txt"
-$OEMLinksURL = "https://raw.githubusercontent.com/maurice-daly/DriverAutomationTool/master/Data/OEMLinks.xml"
-
+#$OEMLinksURL = "https://raw.githubusercontent.com/maurice-daly/DriverAutomationTool/master/Data/OEMLinks.xml"
+$OEMLinksURL = "https://github.com/slbastin/Acer_Australia_DriverAutomationTool/blob/master/Data/OEMLinks.xml"
+#https://github.com/slbastin/Acer_Australia_DriverAutomationTool/blob/master/Data/OEMLinks.xml
 # Path variables
 [string]$global:RegPath = "HKLM:\SOFTWARE\DriverAutomationTool"
 [string]$global:ProductName = "DriverAutomationTool"
