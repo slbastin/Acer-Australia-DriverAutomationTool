@@ -30,4 +30,7 @@
 	<Manufacturer Name="Acer" >
 		<Link Type="XMLSource" URL="https://global-download.acer.com/supportfiles/files/support/sourcefile/msepm/AcerCatalog.xml"></Link>
 	</Manufacturer>
+		<Manufacturer Name="AcerAU" >
+		<Link Type="XMLSource" URL="https://raw.github.com/slbastin/Acer_Australia_DriverAutomationTool/master/AcerAustraliaCatalog.xml"></Link>
+	</Manufacturer>
 </OEM>
